@@ -1,0 +1,31 @@
+const exchanges = [
+    'Bitmex',
+    'Binance.us',
+    'Coinbase',
+    'Kraken',
+    'Bitfinex',
+    'Bitstamp',
+    'Bittrex',
+    'Gemini',
+    'Huobi',
+    'OKEx',
+    'Poloniex',
+    'KuCoin',
+    'CEX.IO',
+    'BitFlyer',
+    'Coincheck',
+    'Liquid',
+    'Binance',
+    'Crypto.com',
+    'Upbit',
+    'Bithumb',
+    'Gate.io',
+    'Bitso',
+    'ProBit',
+    'Indodax',
+    'Paxful',
+    'WazirX',
+    'Bitrue'
+  ];
+  
+  export default exchanges
